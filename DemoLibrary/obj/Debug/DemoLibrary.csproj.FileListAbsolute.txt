@@ -1,0 +1,16 @@
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Temp\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Temp\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Temp\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Temp\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Temp\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\zohal\source\repos\unit testing source\DemoLibrary\obj\Debug\DemoLibrary.pdb
