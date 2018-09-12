@@ -20,19 +20,27 @@ namespace DemoLibrary
     }
     public static class DataAccess
     {
-        private static string personTextFile = "PersonText.txt";
+        private static string personTextFile = @"C:\Users\zohal\source\repos\unit testing source\DemoLibrary\PersonText.txt";
 
         //public static object Message { get; private set; }
 
         public static void AddNewPerson(PersonModel person)
         {
-            List<PersonModel> people = GetAllPeople();
+            List<PersonModel> people = new List<PersonModel>();
+            try
+            {
+                people = GetAllPeople();
+            }
+            catch (FileNotFoundException e)
+            {
 
+            }
             AddPersonToPeopleList(people, person);
-
             List<string> lines = ConvertModelsToCSV(people);
-
             File.WriteAllLines(personTextFile, lines);
+            //string createText = "Hello and Welcome" + Environment.NewLine;
+            //string path = "personTextFile";
+            //File.WriteAllText(path, createText);
         }
             
 
